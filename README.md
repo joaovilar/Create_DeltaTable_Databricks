@@ -1,5 +1,5 @@
-# Create_DeltaTable_Databricks
-Criação de tabela em delta lendo de diretório do azure data lake
+# Criação de tabela em delta lendo de diretório do azure data lake para Databricks
+
 
 ![image](https://github.com/user-attachments/assets/8ff4898b-2386-464a-9595-7c9278990aaf)
 
