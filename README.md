@@ -13,3 +13,5 @@ O foco principal do projeto é:
     Manipulação de dados no Databricks com a integração da plataforma Spark para processamento
 
 ![image](https://github.com/user-attachments/assets/aa4a7606-4270-4643-8a13-fedf42de3068)
+
+![image](https://github.com/user-attachments/assets/701a61ef-86d1-462d-86d1-db120049327d)
